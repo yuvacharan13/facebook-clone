@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.form-group{
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.inputClass{
+  height: 200px;
+  width: 50%;
+  display: block;
+  margin-left: 25%;
+}
